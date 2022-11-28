@@ -1,24 +1,24 @@
-## Olá, me chamo Pedro Gisélio
-### Sou desenvolvedor Front, seja bem vindo(a) ao meu perfil👋
+## Olá, sou Pedro Gisélio
 
 
 ### Sobre mim
 
-- 📚 Formando-se em Técnico de informática pelo IFRN-JC
+- 📚 Formando-se em Técnico em informática pelo IFRN-JC
 - 🤏 20 anos de idade
-- 🌎 Moro no Rio Grande do Norte
+- 🌎 Morando no Rio Grande do Norte
+- 👨‍💻 Atualmente focando em desenvolvimento front-end
 
-### Familiaridade com as seguintes tecnologias
+### Familiaridade com as seguintes tecnologias:
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="30" height="30"/> Typescript
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/> Javascript
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30"/> React
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30"/> Node
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> Java
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/> HTML5
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/> CSS3
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="20" height="20"/> Typescript
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"/> Javascript
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20"/> React
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20" height="20"/> NodeJS
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" height="20"/> Java
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20" height="20"/> HTML5
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20" height="20"/> CSS3
 
-### Estou estudando
+### Estou estudando:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
 
 ### Contatos:
@@ -37,6 +37,5 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pgiselio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>          
           
-
-![](https://visitor-badge.glitch.me/badge?page_id=pgiselio&left_color=gray&right_color=blueviolet&left_text=Visitantes)
+![](https://visitor-badge.glitch.me/badge?page_id=pgiselio&left_text=Visitantes)
 
