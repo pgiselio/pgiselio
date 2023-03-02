@@ -3,7 +3,7 @@
 
 ### Sobre mim
 
-  📚 Formando-se em Técnico em informática pelo IFRN-JC  
+  📚 Formando em Técnico em informática pelo IFRN-JC  
   🤏 20 anos de idade  
   🌎 Morando no Rio Grande do Norte  
   👨‍💻 Atualmente focando em desenvolvimento front-end  
