@@ -1,10 +1,10 @@
-## Olá, sou Pedro Gisélio
+## Olá 👋
 
 
 ### Sobre mim
 
-  📚 Formando em Técnico em informática pelo IFRN-JC  
-  🤏 20 anos de idade  
+  📚 Técnico em informática pelo IFRN-JC  
+  🤏 21 anos de idade  
   🌎 Morando no Rio Grande do Norte  
   👨‍💻 Atualmente focando em desenvolvimento front-end  
 
