@@ -4,7 +4,8 @@
 ### Sobre mim
 
   📚 Técnico em Informática pelo IFRN Campus João Câmara  
-  🤏 21 anos de idade  
+  📚 Cursando Bacharelado em Ciências e Tecnologia UFRN  
+  🤏 22 anos de idade  
   🌎 Morando no Rio Grande do Norte  
   👨‍💻 Atualmente focando em desenvolvimento front-end  
 
